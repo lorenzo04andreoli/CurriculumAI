@@ -1,6 +1,6 @@
 import uuid
 from models.job import Job
-from database import AnalysisDataBase
+from analyze.database import AnalysisDataBase
 
 database = AnalysisDataBase()
 
