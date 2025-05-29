@@ -1,0 +1,20 @@
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar arquivos de credenciais
+credentials.json
+token.json
+db.json
+
+
+# Ignorar arquivos de configuração específicos do sistema
+*.log
+*.sqlite3
+.DS_Store
+Thumbs.db
+
